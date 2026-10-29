@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1.5" fill="#9ca3af" opacity="0.2"/>
+    </pattern>
+  </defs>
+  
+        <rect width="1280" height="640" fill="#101a2e"/>
+        <rect x="740" y="140" width="460" height="360" rx="24" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+        <rect x="760" y="160" width="420" height="320" rx="16" fill="#22d3ee" fill-opacity="0.03"/>
+        <g transform="translate(760, 180)">
+          <rect x="0" y="0" width="80" height="80" rx="20" fill="#22d3ee"/>
+          <g transform="translate(10, 10)"><path d="M 36 24 L 26 42 L 38 42 L 32 56 L 48 36 L 36 36 Z" fill="#fff"/></g>
+        </g>
+        <text x="860" y="210" fill="#ffffff" font-family="system-ui, sans-serif" font-size="22" font-weight="700">One command. Setup.</text>
+        <text x="860" y="240" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="14">Automated install.</text>
+
+        <line x1="760" y1="290" x2="1180" y2="290" stroke="#27272a" stroke-width="1"/>
+        <text x="760" y="330" fill="#22d3ee" font-family="monospace" font-size="14">✓ PowerShell 5.1+</text>
+        <text x="760" y="360" fill="#22d3ee" font-family="monospace" font-size="14">✓ One-line install</text>
+        <text x="760" y="390" fill="#22d3ee" font-family="monospace" font-size="14">✓ No admin required</text>
+
+        <text x="80" y="200" fill="#ffffff" font-family="system-ui, sans-serif" font-size="64" font-weight="900" text-anchor="start">Grizl Fabric</text>
+<text x="80" y="270" fill="#ffffff" font-family="system-ui, sans-serif" font-size="64" font-weight="900" text-anchor="start">Observability</text>
+
+        <text x="80" y="360" fill="#9ca3af" font-family="system-ui, sans-serif" font-size="22" text-anchor="start">PowerShell Script · One Click</text>
+        <rect x="80" y="400" width="80" height="4" rx="2" fill="#22d3ee"/>
+        <g transform="translate(80, 500)">
+    <g font-family="system-ui, sans-serif" font-size="14" fill="#ffffff" font-weight="600">
+      <rect x="0" y="0" width="130" height="40" rx="20" fill="#22d3ee" fill-opacity="0.15" stroke="#22d3ee" stroke-width="1"/>
+      <text x="65" y="25" text-anchor="middle">PS 5.1+</text>
+      <rect x="145" y="0" width="160" height="40" rx="20" fill="#a78bfa" fill-opacity="0.15" stroke="#a78bfa" stroke-width="1"/>
+      <text x="225" y="25" text-anchor="middle">One-Click Setup</text>
+      <rect x="320" y="0" width="110" height="40" rx="20" fill="#101a2e" stroke="#27272a" stroke-width="1"/>
+      <text x="375" y="25" text-anchor="middle">Win 11</text>
+    </g>
+    </g>
+        
+</svg>
